@@ -1,4 +1,6 @@
-public class BowlingGame {
+//reference
+//https://www.jianshu.com/p/4c737ce5baac
+ public class BowlingGame {
     public static final int TOTAL_ROUND = 10;   // 总局数
 
     private int[] scores;                       // 记录每局得分的数组

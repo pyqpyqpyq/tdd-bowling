@@ -1,3 +1,5 @@
+//reference
+//https://www.jianshu.com/p/4c737ce5baac
 import java.text.DecimalFormat;
 import java.util.Scanner;
 
